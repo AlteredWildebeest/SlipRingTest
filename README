@@ -1,0 +1,2 @@
+This github repo is for the code in the slip ring tester. It contains the teensy code to run the MCU, and the relevant Pi code to run the Ethernet and Serial Tester
+
